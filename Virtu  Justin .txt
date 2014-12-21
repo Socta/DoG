@@ -1,0 +1,15 @@
+Prérequis pour installation vsphere ESX ? 
+- 4 Go Ram
+- Processeurs 64 Bits  
+- Intel VT , AMD V  Gère la paravirutalisation 
+
+- VMFS : Virtual machine file system
+- Datastore1 : partie restante sur HDD prévu pour le stockaqe.
+
+- VMKernel automatique a la création de 
+- Vmotion : Deplacer des machines 
+
+-Barmetal : 
+
+- cluster HA : il faut : un vcenter , un cluster , DNS 
+-Vcenter : Centraliser les administrations inventaires ...
